@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-ldpi/search_icon.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-ldpi/search_icon.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-ldpi/newtone_icon.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-ldpi/newtone_icon.png"
+    }
+]

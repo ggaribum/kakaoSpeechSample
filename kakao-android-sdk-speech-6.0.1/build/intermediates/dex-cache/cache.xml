@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/openAPI/KakaoASROpenApiSampleAndroid/app/build/intermediates/exploded-aar/com.kakao.sdk/newtone.core-sandbox/1.1.1.OpenApi-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d74b85e01c67ae947a5f02a035d0335c3a7f934d">
+        <dex dex="/Users/jack/Documents/openAPI/KakaoASROpenApiSampleAndroid/app/build/intermediates/pre-dexed/debug/com.kakao.sdk-newtone.core-sandbox-1.1.1.OpenApi-SNAPSHOT_052c054db5b629a9c9d5ab9247f88805f5fef26a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jack/Documents/openAPI/KakaoASROpenApiSampleAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb374b68d628a09b76c2c481ae25f445a2ff674a">
+        <dex dex="/Users/jack/Documents/openAPI/KakaoASROpenApiSampleAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0dcf2480deec39e2438dc149205629e9efb73301/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jack/Documents/openAPI/KakaoASROpenApiSampleAndroid/app/build/intermediates/exploded-aar/com.kakao.sdk/newtone-sandbox/6.0.1-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d78264e2f73d4da5de69da81000914c4e74e6a8d">
+        <dex dex="/Users/jack/Documents/openAPI/KakaoASROpenApiSampleAndroid/app/build/intermediates/pre-dexed/debug/com.kakao.sdk-newtone-sandbox-6.0.1-SNAPSHOT_880d4683e6c47ad00e66f3fd09a32ed372c4f2a8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jack/Documents/openAPI/KakaoASROpenApiSampleAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/jack/Documents/openAPI/KakaoASROpenApiSampleAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f366bb00bbb7825ba99c32cb5e73c6a5c817f36c/classes.dex" />
+    </item>
+
+</items>

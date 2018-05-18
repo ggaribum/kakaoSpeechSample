@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_focus_box.9.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_focus_box.9.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_top_refresh_on.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_top_refresh_on.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_top_daum.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_top_daum.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_bt_voice_on.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_bt_voice_on.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/newtone_icon.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/newtone_icon.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_top_daum_on.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_top_daum_on.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_bt_refresh.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_bt_refresh.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/kakao_api_endorsedmark_screen.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/kakao_api_endorsedmark_screen.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/splash_search.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/splash_search.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_top_close_on.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_top_close_on.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_top_refresh.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_top_refresh.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_ani_circle_green.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_ani_circle_green.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_top_close.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_top_close.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_bg_listview_tip.9.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_bg_listview_tip.9.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/speak_icon1.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/speak_icon1.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_ani_circle_red.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_ani_circle_red.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/search_icon.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/search_icon.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_bt_refresh_on.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_bt_refresh_on.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_ani_circle_yellow.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_ani_circle_yellow.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_bt_voice_rec.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_bt_voice_rec.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_bt_voice.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_bt_voice.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/com_kakao_sdk_asr_ani_circle_blue.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/com_kakao_sdk_asr_ani_circle_blue.png"
+    },
+    {
+        "merged": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/build/intermediates/res/merged/debug/drawable-xhdpi/splash_newtone.png",
+        "source": "/Users/kevin.kang/Downloads/KakaoASROpenApiSampleAndroid/app/src/main/res/drawable-xhdpi/splash_newtone.png"
+    }
+]

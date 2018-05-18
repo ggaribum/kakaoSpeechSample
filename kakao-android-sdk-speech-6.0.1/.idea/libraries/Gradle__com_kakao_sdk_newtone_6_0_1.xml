@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kakao.sdk:newtone-6.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/94ad01d5533712d849b702b7a3d0c5ac2070ccb0/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/94ad01d5533712d849b702b7a3d0c5ac2070ccb0/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kakao.sdk/newtone/6.0.1/5bb91530722b5014d1eb1bf9ff1560e3b2b2cf78/newtone-6.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
